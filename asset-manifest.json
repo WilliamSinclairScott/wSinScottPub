@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/wSinScottPub/static/js/main.026c5edf.js",
-    "index.html": "/wSinScottPub/index.html",
-    "main.026c5edf.js.map": "/wSinScottPub/static/js/main.026c5edf.js.map"
+    "main.js": "/wSinScottPub/home/static/js/main.91231264.js",
+    "index.html": "/wSinScottPub/home/index.html",
+    "main.91231264.js.map": "/wSinScottPub/home/static/js/main.91231264.js.map"
   },
   "entrypoints": [
-    "static/js/main.026c5edf.js"
+    "static/js/main.91231264.js"
   ]
 }
