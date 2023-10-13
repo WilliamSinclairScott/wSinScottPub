@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/wSinScottPub/Homepage/static/js/main.b8a919b5.js",
-    "index.html": "/wSinScottPub/Homepage/index.html",
-    "main.b8a919b5.js.map": "/wSinScottPub/Homepage/static/js/main.b8a919b5.js.map"
+    "main.js": "/wSinScottPub/static/js/main.b8a919b5.js",
+    "index.html": "/wSinScottPub/index.html",
+    "main.b8a919b5.js.map": "/wSinScottPub/static/js/main.b8a919b5.js.map"
   },
   "entrypoints": [
     "static/js/main.b8a919b5.js"
